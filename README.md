@@ -4,6 +4,9 @@ This repository contains the Python source code and simulation models for the pa
 **"The Targeted Depletion Benchmark (TDB): A Stochastic Optimization Model for Labor Cessation and Sequence Risk"** by Paul-Henry Paltmann.
 
 Read the full paper on SSRN: https://dx.doi.org/10.2139/ssrn.6260638
+Previous research note: https://dx.doi.org/10.2139/ssrn.6260638
+
+Interactive TDB simulation: tdb-calculator.streamlit.app
 
 ## Overview
 
